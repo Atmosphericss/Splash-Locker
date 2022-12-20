@@ -1,4 +1,4 @@
-Feel free to check my kofi out to donate if you like any of the open source projects I'm working on. It really helps me to stay motivated, and allows me to run services like servers I otherwise wouldn't be able to
+Feel free to check my kofi link below to donate if you like any of the open source projects I'm working on. It really helps me to stay motivated, and allows me to run services like servers I otherwise wouldn't be able to
 
 <hr>
 
