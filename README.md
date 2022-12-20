@@ -6,7 +6,7 @@ Feel free to check my kofi out to donate if you like any of the open source proj
 
 Thanks for trying out this short project. All code found within this project is open source, and available for free usage in any non-commercial way. I hope you find this program, or it's source code useful. All code was made by:
 
->[Atmosphericss](https://github.com/Atmosphericss/) | **Atmoist🖤⚡💛#7178**[Atmosphericss](https://github.com/Atmosphericss/)
+>[Atmosphericss](https://github.com/Atmosphericss/) | **Atmoist🖤⚡💛#7178**
 
 With credits to:
 
