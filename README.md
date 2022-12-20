@@ -1,6 +1,10 @@
 Feel free to check my kofi out to donate if you like any of the open source projects I'm working on. It really helps me to stay motivated, and allows me to run services like servers I otherwise wouldn't be able to
-<br>
-<a href='https://ko-fi.com/atmoist' target='_blank'><img height='35' style='border:5px;height:46px;' src='https://az743702.vo.msecnd.net/cdn/kofi6.png?v=22' border='1' alt='If you appreciate free releases made by me :)' />
+
+<hr>
+
+<div style="text-align: center">
+  <a href='https://ko-fi.com/atmoist' target='_blank'><img height='35' style='border:5px;height:46px;' src='https://az743702.vo.msecnd.net/cdn/kofi6.png?v=22'  border='1' alt='If you appreciate free releases made by me :)' style="margin:auto; text-align:center; display:block;"/>
+</div>
 
 # Thanks for using Splash Locker!
 
@@ -12,11 +16,15 @@ With credits to:
 
 >[unununu](https://github.com/unununununununun/)
 For his work on creating a pascaal locker, which is where I have taken the locking mechanism from.
+<hr>
+
+<br><br>
 
 # Important!
-### To avoid having to redownload game files every time you load the game, please make sure to use 
-> unlock.bat
-### BEFORE exiting out of the game.
+## To avoid having to redownload game files every time you load the game, please make sure to use 
+> # **unlock.bat**
+## BEFORE exiting out of the game. 
+<br><br>
 
 # Usage and files...
 
@@ -69,7 +77,7 @@ Once you are happy with the config files you prepared, you should be safe to use
 - Playing with this in a squad will cause you to be kicked, as per normal, and your squad to continue into the game. In short, you either all need to use this locker (or other similar ones), or none in order to play together.
 - Though I nor anyone I know has been banned using this form of "mod". It is definitely one of the more aggressive and invasive types of mod that are not outright cheating. -- HOWEVER after the release of Arctic and getting it too many times recently, I am releasing this program, I refuse to play that map again.
 
-
+<br><br>
 
 # Licensing!
 ## GNU General Public License
