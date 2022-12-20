@@ -21,6 +21,17 @@ For his work on creating a pascaal locker, which is where I have taken the locki
 # Usage and files...
 
 ## Finding the War Thunder /levels/ directory
+  
+  - Steam: Here is an example of what your path may look like if you installed the game via steam: 
+  > `C:\Program Files (x86)\Steam\steamapps\common\War Thunder\levels`
+  
+  **Note**: Space between War and Thunder in path
+  **Easy way to find**: Find War THunder within your Steam Client Library, then right click on it and navigate to *Manage>Browse Local Files*. This should open a folder that contains **/levels/**
+  - Gaijin Launcher: This will be...wherever you installed it, for example mine is:
+  > `D:\WarThunder\levels`
+  
+  **Note**: No space between War and Thunder on the official gaijin launcher installation.
+   **Easy way to find**: Right click on your desktop War Thunder shortcut, and clicking on  **Open file location**. In the folder you are taken to, should be **/levels/**
 
 ## Files
 |                |.py                          |Description                         |
