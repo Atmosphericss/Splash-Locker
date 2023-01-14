@@ -1,11 +1,3 @@
-Feel free to check my kofi link below to donate if you like any of the open source projects I'm working on. It really helps me to stay motivated, and allows me to run services like servers I otherwise wouldn't be able to
-
-<hr>
-
-<div style="text-align: center">
-  <a href='https://ko-fi.com/atmoist' target='_blank'><img height='35' style='border:5px;height:46px;' src='https://az743702.vo.msecnd.net/cdn/kofi6.png?v=22'  border='1' alt='If you appreciate free releases made by me :)' style="margin:auto; text-align:center; display:block;"/>
-</div>
-
 # Thanks for using Splash Locker!
 
 Thanks for trying out this short project. All code found within this project is open source, and available for free usage in any non-commercial way. I hope you find this program, or it's source code useful. All code was made by:
